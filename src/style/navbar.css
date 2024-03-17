@@ -1,0 +1,38 @@
+ul {
+    display: flex;
+   justify-content: center;
+   background-color: red ;
+  
+
+  
+   
+
+  }
+
+  /* div{
+    z-index: 99999;
+    top: 0;
+    position: sticky;
+    
+  } */
+  ul li{
+    margin: 20px;
+    text-decoration: none;
+    list-style: none;
+   
+  }
+  .nav-link {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  .nav-link:hover{
+    color: yellow;
+    cursor: pointer;
+  }
+  .cart{
+    color: white;
+    margin-top: 5px;
+    
+    
+  }
+  
