@@ -9,12 +9,12 @@ ul {
 
   }
 
-  /* div{
+  .navbar{
     z-index: 99999;
     top: 0;
     position: sticky;
     
-  } */
+  }
   ul li{
     margin: 20px;
     text-decoration: none;
